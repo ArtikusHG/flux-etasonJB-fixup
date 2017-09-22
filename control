@@ -1,0 +1,9 @@
+Package: com.artikus.fluxfixup
+Name: fluxfixup
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fix f.lux not running on etasonJB after reboot.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
