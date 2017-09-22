@@ -1,5 +1,5 @@
 Package: com.artikus.fluxfixup
-Name: fluxfixup
+Name: fluxfixup org.herf.flux
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
